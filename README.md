@@ -30,7 +30,7 @@
 6. 시각화 처리
 <img width="473" alt="노선 " src="https://user-images.githubusercontent.com/57973170/70852139-44dc8900-1ee1-11ea-99bb-6d4d18237076.png">
 
-*wordcloud를 이용한 그림
+* wordcloud를 이용한 그림
 * 한국과 중국 항공사로 이루어져있음
 * 대한항공의 노선이 가장 많은 것으로 나타난다.
 
